@@ -51,8 +51,12 @@ Olá! Sou um desenvolvedor web front end com paixão por criar experiências de 
 ## :computer: Projetos Destacados
 
 - [Projeto App de Receitas](https://github.com/PauloScapol/Recipes_App) :bento: - 
-- [Projeto Jogo de Trivia]
-- [Projeto Solar System](https://github.com/PauloScapol/solar-system) - Aplicação que exibe o Sistema Solar e as Viagens Espaciais feitas para cada Planeta, utilizando React.
+- [Projeto Jogo de Trivia](https://github.com/PauloScapol/Trivia_Game_React_Redux) :video_game: - 
+- [Projeto TrybeWallet](https://github.com/PauloScapol/TrybeWallet) :money_with_wings: - 
+- [Projeto Front-end Online Store](https://github.com/PauloScapol/FrontEnd_Online_Store) 🛒 - 
+- [Projeto TrybeTunes](https://github.com/PauloScapol/TrybeTunes) :musical_note: - 
+- [Projeto Tryunfo](https://github.com/PauloScapol/Tryunfo) :black_joker: - 
+- [Projeto Solar System](https://github.com/PauloScapol/solar-system) :milky_way: - Aplicação que exibe o Sistema Solar e as Viagens Espaciais feitas para cada Planeta, utilizando React.
 
 ## :framed_picture: Portfólio
 
