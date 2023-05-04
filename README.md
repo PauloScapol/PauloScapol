@@ -25,7 +25,10 @@ Olá! Sou um desenvolvedor web front end com paixão por criar experiências de 
   <br>
 	
   - **Back-End Development**:
+
     ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+  <br>
 
   - **Cloud Hosting**:
   
