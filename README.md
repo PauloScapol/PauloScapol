@@ -51,11 +51,17 @@ Olá! Sou um desenvolvedor web front end com paixão por criar experiências de 
 ## :computer: Projetos Destacados
 
 - [Projeto App de Receitas](https://github.com/PauloScapol/Recipes_App) :bento: - App de receitas criado utilizando React Hooks. A pessoa usuária será capaz de ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas. A base de dados foram 2 APIs distintas, uma para [comidas](https://www.themealdb.com/api.php) e outra para [bebidas](https://www.thecocktaildb.com/api.php);
+
 - [Projeto Jogo de Trivia](https://github.com/PauloScapol/Trivia_Game_React_Redux) :video_game: - Jogo de perguntas e respostas baseado no jogo Trivia, utilizando React e Redux. Para conseguir as perguntas, é realizada uma chamada à [API de Trivia](https://opentdb.com/api_config.php);
+
 - [Projeto TrybeWallet](https://github.com/PauloScapol/TrybeWallet) :money_with_wings: - Carteira de controle de gastos com conversor de moedas. Ao utilizá-la, a pessoa usuária é capaz de adicionar e remover gastos, visualizar uma tabela com seus gastos e visualizar o total de gastos, convertidos para uma moeda de sua escolha;
+
 - [Projeto Front-end Online Store](https://github.com/PauloScapol/FrontEnd_Online_Store) 🛒 - Versão simplificada de uma loja online, onde se a pessoa usuária pode buscar produtos por termos e categorias a partir da [API do Mercado Livre](https://api.mercadolibre.com/sites/MLB/categories);
+
 - [Projeto TrybeTunes](https://github.com/PauloScapol/TrybeTunes) :musical_note: - Aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada;
+
 - [Projeto Tryunfo](https://github.com/PauloScapol/Tryunfo) :black_joker: - Jogo no estilo Super Trunfo. Ao utilizar essa aplicação, a pessoa usuária será capaz de criar um baralho com o tema de sua escolha, adicionar e remover cartas do baralho, utilizar filtros de nome e/ou raridade para visualizar todas as cartas que foram adicionadas ao baralho;
+
 - [Projeto Solar System](https://github.com/PauloScapol/solar-system) :milky_way: - Aplicação que exibe o Sistema Solar e as Viagens Espaciais feitas para cada Planeta, utilizando React.
 
 ## :framed_picture: Portfólio
