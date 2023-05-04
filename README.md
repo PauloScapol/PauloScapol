@@ -50,6 +50,7 @@ Olá! Sou um desenvolvedor web front end com paixão por criar experiências de 
 
 ## :computer: Projetos Destacados
 
+- [Projeto App de Receitas](https://github.com/PauloScapol/Recipes_App) :bento: - 
 - [Projeto Solar System](https://github.com/PauloScapol/solar-system) - Aplicação que exibe o Sistema Solar e as Viagens Espaciais feitas para cada Planeta, utilizando React.
 
 ## :framed_picture: Portfólio
