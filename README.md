@@ -9,7 +9,7 @@
 
 # :adult: Sobre mim
 
-Olá! Sou um desenvolvedor web front end com paixão por criar experiências de usuário incríveis e interfaces de usuário responsivas. Com 8 anos de experiência em desenvolvimento web e uma formação em Engenharia Civil, estou atualmente cursando Desenvolvimento Web na Trybe, onde estou aprimorando minhas habilidades em tecnologias como HTML, CSS, JavaScript, React, Hooks e Redux.
+Olá! Sou um desenvolvedor web front end com paixão por criar experiências de usuário incríveis e interfaces de usuário responsivas. Com formação em Engenharia Civil, concluí recentemente o curso de Desenvolvimento Web na Trybe, onde aprimorei minhas habilidades em tecnologias como HTML, JavaScript, React, TypeScript e Python.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
